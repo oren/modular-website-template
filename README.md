@@ -1,8 +1,8 @@
 # modular-website-template
 modular website that uses small packages instead of a framework - 
 
-* router - routes package
-* templates - templar package
+* router - [routes package](https://github.com/aaronblohowiak/routes.js)
+* templates - [templar package](https://github.com/isaacs/templar)
 
 I follow the structure from the [new npm](https://github.com/isaacs/npm-www/blob/master/site.js) website.
 
